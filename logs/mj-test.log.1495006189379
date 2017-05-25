@@ -1,0 +1,174 @@
+2017-05-17 09:29:25 INFO  MJParserTest:28 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-05-17 09:29:25 INFO  MJParser:530 - #2 program
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 Program
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 char
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 mm
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 bool
+2017-05-17 09:29:25 INFO  MJParser:560 - 2 Deklarisana promenljiva mm na liniji 3
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 tt
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 string
+2017-05-17 09:29:25 INFO  MJParser:560 - 5 Deklarisana promenljiva tt na liniji 4
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 ana
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #20 class
+2017-05-17 09:29:25 INFO  MJParser:560 - 3 Deklarisana promenljiva ana na liniji 5
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 A
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana klasa A na liniji 8
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 x
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #9 ,
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 y
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #9 ,
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva y na liniji 9
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 z
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva z na liniji 9
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva x na liniji 9
+2017-05-17 09:29:25 INFO  MJParser:530 - #22 const
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 pi
+2017-05-17 09:29:25 INFO  MJParser:530 - #13 =
+2017-05-17 09:29:25 INFO  MJParser:530 - #48 3
+2017-05-17 09:29:25 INFO  MJParser:530 - #9 ,
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 e
+2017-05-17 09:29:25 INFO  MJParser:530 - #13 =
+2017-05-17 09:29:25 INFO  MJParser:530 - #48 2
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #20 class
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 B
+2017-05-17 09:29:25 INFO  MJParser:530 - #27 extends
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 A
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana klasa B na liniji 14
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 i
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 B
+2017-05-17 09:29:25 INFO  MJParser:560 - 1 Deklarisana promenljiva i na liniji 15
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 x
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva x na liniji 16
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 getValue
+2017-05-17 09:29:25 INFO  MJParser:530 - #7 (
+2017-05-17 09:29:25 INFO  MJParser:560 - Obradjuje se metoda: getValue na liniji 18
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 a
+2017-05-17 09:29:25 INFO  MJParser:530 - #8 )
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 b
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 bool
+2017-05-17 09:29:25 INFO  MJParser:560 - 1 Deklarisana promenljiva b na liniji 18
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 c
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - 5 Deklarisana promenljiva c na liniji 18
+2017-05-17 09:29:25 INFO  MJParser:530 - #11 return
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 i
+2017-05-17 09:29:25 INFO  MJParser:530 - #12 +
+2017-05-17 09:29:25 INFO  MJParser:560 - Koriscenje identifikatora 4 i na liniji 19
+2017-05-17 09:29:25 INFO  MJParser:560 - ^^^^1
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 a
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:560 - Koriscenje identifikatora 1 a na liniji 19
+2017-05-17 09:29:25 INFO  MJParser:560 - ^^^^1
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #20 class
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 C
+2017-05-17 09:29:25 INFO  MJParser:530 - #27 extends
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 B
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana klasa C na liniji 23
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 A
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 theA
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 string
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva theA na liniji 24
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 a
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - 3 Deklarisana promenljiva a na liniji 25
+2017-05-17 09:29:25 INFO  MJParser:530 - #3 void
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 main
+2017-05-17 09:29:25 INFO  MJParser:530 - #7 (
+2017-05-17 09:29:25 INFO  MJParser:560 - Obradjuje se metoda: main na liniji 28
+2017-05-17 09:29:25 INFO  MJParser:530 - #8 )
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 mil
+2017-05-17 09:29:25 INFO  MJParser:530 - #7 (
+2017-05-17 09:29:25 INFO  MJParser:560 - Obradjuje se metoda: mil na liniji 29
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 char
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 m
+2017-05-17 09:29:25 INFO  MJParser:530 - #9 ,
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 gg
+2017-05-17 09:29:25 INFO  MJParser:530 - #8 )
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:530 - #11 return
+2017-05-17 09:29:25 INFO  MJParser:530 - #48 2
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:560 - PREPOZNAT JE BROJ: 2
+2017-05-17 09:29:25 INFO  MJParser:560 - ^^^^1
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #5 }
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:530 - #3 void
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 trt
+2017-05-17 09:29:25 INFO  MJParser:530 - #7 (
+2017-05-17 09:29:25 INFO  MJParser:560 - Obradjuje se metoda: trt na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #8 )
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 A
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 a
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 B
+2017-05-17 09:29:25 INFO  MJParser:560 - 4 Deklarisana promenljiva a na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 b
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 C
+2017-05-17 09:29:25 INFO  MJParser:560 - 4 Deklarisana promenljiva b na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 c
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:560 - 4 Deklarisana promenljiva c na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 i
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 int
+2017-05-17 09:29:25 INFO  MJParser:560 - 1 Deklarisana promenljiva i na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 x
+2017-05-17 09:29:25 INFO  MJParser:530 - #14 [
+2017-05-17 09:29:25 INFO  MJParser:530 - #15 ]
+2017-05-17 09:29:25 INFO  MJParser:530 - #6 ;
+2017-05-17 09:29:25 INFO  MJParser:530 - #4 {
+2017-05-17 09:29:25 INFO  MJParser:560 - Deklarisana promenljiva x na liniji 34
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 i
+2017-05-17 09:29:25 INFO  MJParser:530 - #13 =
+2017-05-17 09:29:25 INFO  MJParser:560 - Koriscenje identifikatora 1 i na liniji 36
+2017-05-17 09:29:25 INFO  MJParser:530 - #51 len
+2017-05-17 09:29:25 INFO  MJParser:530 - #7 (
+2017-05-17 09:29:25 INFO  MJParser:560 - Koriscenje identifikatora 3 len na liniji 36
+2017-05-17 09:29:25 INFO  MJParser:530 - #47 ana
+2017-05-17 09:29:25 ERROR MJParser:554 - 
+Sintaksna greska na liniji 36
+2017-05-17 09:29:25 ERROR MJParser:554 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 36
+2017-05-17 09:29:25 ERROR MJParserTest:38 - Parsiranje NIJE uspesno zavrseno. Postoje greske u kodu!

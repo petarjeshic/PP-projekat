@@ -1,0 +1,51 @@
+2017-05-25 11:37:09 INFO  MJParserTest:28 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-05-25 11:37:09 INFO  MJParser:566 - #2 program
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 P
+2017-05-25 11:37:09 INFO  MJParser:566 - #22 const
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 int
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 size
+2017-05-25 11:37:09 INFO  MJParser:566 - #13 =
+2017-05-25 11:37:09 INFO  MJParser:566 - #48 10
+2017-05-25 11:37:09 INFO  MJParser:566 - #6 ;
+2017-05-25 11:37:09 INFO  MJParser:566 - #20 class
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 Table
+2017-05-25 11:37:09 INFO  MJParser:566 - #4 {
+2017-05-25 11:37:09 INFO  MJParser:596 - Deklarisana klasa Table na liniji 3
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 int
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 pos
+2017-05-25 11:37:09 INFO  MJParser:566 - #14 [
+2017-05-25 11:37:09 INFO  MJParser:566 - #15 ]
+2017-05-25 11:37:09 INFO  MJParser:566 - #9 ,
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 neg
+2017-05-25 11:37:09 INFO  MJParser:566 - #14 [
+2017-05-25 11:37:09 INFO  MJParser:566 - #15 ]
+2017-05-25 11:37:09 INFO  MJParser:566 - #6 ;
+2017-05-25 11:37:09 INFO  MJParser:596 -  Deklarisana promenljiva neg na liniji 4
+2017-05-25 11:37:09 INFO  MJParser:566 - #4 {
+2017-05-25 11:37:09 INFO  MJParser:596 - 1 Deklarisana promenljiva pos na liniji 4
+2017-05-25 11:37:09 INFO  MJParser:566 - #3 void
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 putp
+2017-05-25 11:37:09 INFO  MJParser:566 - #7 (
+2017-05-25 11:37:09 INFO  MJParser:596 - Obradjuje se metoda: putp na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 int
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 a
+2017-05-25 11:37:09 INFO  MJParser:566 - #9 ,
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 int
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 idx
+2017-05-25 11:37:09 INFO  MJParser:566 - #8 )
+2017-05-25 11:37:09 INFO  MJParser:596 - Parametar funkcije: idx na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:596 - Parametar funkcije: a na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:566 - #4 {
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 pos
+2017-05-25 11:37:09 INFO  MJParser:566 - #14 [
+2017-05-25 11:37:09 INFO  MJParser:596 - Koriscenje identifikatora 4 pos na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 idx
+2017-05-25 11:37:09 ERROR MJParser:590 - Greska na liniji 6:tip nije niz
+2017-05-25 11:37:09 INFO  MJParser:566 - #15 ]
+2017-05-25 11:37:09 INFO  MJParser:596 - Koriscenje identifikatora 1 idx na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:596 - ^^^^1
+2017-05-25 11:37:09 INFO  MJParser:566 - #13 =
+2017-05-25 11:37:09 INFO  MJParser:566 - #51 a
+2017-05-25 11:37:09 INFO  MJParser:566 - #6 ;
+2017-05-25 11:37:09 INFO  MJParser:596 - Koriscenje identifikatora 1 a na liniji 6
+2017-05-25 11:37:09 INFO  MJParser:596 - ^^^^1
