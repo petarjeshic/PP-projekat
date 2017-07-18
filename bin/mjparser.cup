@@ -40,12 +40,13 @@ parser code {:
 action code {:
 	Obj currentMethod = null;
 	Struct currentType, currentMethType;
+	boolean main=false;
 	boolean returnFound=false;
 	boolean in_class = false; 
 	boolean in_method = false;
 	boolean in_for=false;
 	Obj _this;
-	
+	int mainDeclarations = 0;
 	Obj currentClass;
 :}
 
@@ -75,11 +76,11 @@ terminal Boolean BOOL;
 terminal String IDENT;
 
 non terminal Program,MethodDecl,VarDeclList,MethodDeclList,VarDecl,StatementList, FormParamList ;
-non terminal FormParamDecl,Statement,ActualPars;
-non terminal ConstDecl,ConstList,IdentList,ExtIdentList,MedBraceList;
+non terminal Statement,ActualPars;
+non terminal ConstDecl,ConstList,IdentList,ExtIdentList;
 non terminal ClassDecl,DesignatorStatement,Condition,DesignatorStatementList;
 non terminal ConditionList,NumConstList,CondTermList,ClassVarDeclList;
-non terminal CondFact,BraceExprList,If,ClassVarDecl,IdentIdentList;
+non terminal CondFact,BraceExprList,If,ClassVarDecl,IdentIdentList,VarList;
 non terminal Assignop,AddopLeft,AddopRight,MulopRight,MulopLeft,CondTerm;
 non terminal CondFactList,Matched,Unmatched,AnotherList,SomeDeclList,VarArgs;
 
@@ -90,13 +91,32 @@ non terminal Stack<MyStruct> ActPars;
 
 Program ::= PROG ProgName:p SomeDeclList LBRACE MethodDeclList RBRACE
 			{:
+				MyTab.openScope();
 				MyTab.chainLocalSymbols(p);
 				MyTab.closeScope();
+				
+				int array_count = 0;
+				int var_count = 0;
+				int con_count = 0;
+				
+				for(Obj s : p.getLocalSymbols())
+					if(s.getKind() == Obj.Var)
+						if(s.getType().getKind() == Struct.Array)
+							array_count++;
+						else
+							var_count++;
+					else if(s.getKind() == Obj.Con)
+						con_count++;
+									
+				parser.report_info("Broj globalnih prostih promenjivih:" + var_count,null);
+				parser.report_info("Broj globalnih nizova:" + array_count,null);
+				parser.report_info("Broj globalnih konstanti:" + con_count,null);
+				parser.report_info("Broj deklaracija promenljivih u main-u:" + mainDeclarations,null);
 			:} ;
 ProgName ::= IDENT:pName
 			{:
 			RESULT= MyTab.insert(Obj.Prog,pName,MyTab.noType);
-			MyTab.openScope();
+			
 			 :};
    
 SomeDeclList ::= SomeDeclList ConstDecl
@@ -116,22 +136,28 @@ ConstDecl ::= CONST Type IDENT:name EQUAL ConstList:o IdentList SEMI
 				  		if(!o.equals(currentType))
 				  			parser.report_error("Greska na liniji: " + nameleft+" . Tip koji se dodeljuje ne odgovara tipu kome se dodeljuje. ",null);
 				  	}
-			  :};
+			  :}
+			  |
+			  CONST error SEMI:s 
+			  {: 
+			  	parser.report_info("Uspesan oporavak od greske na liniji " + sleft + " pri definisanju konstante.",null); 
+		  	  :};
 IdentList ::=IdentList COMMA IDENT EQUAL ConstList 
+			
 			|
 			/*epsilon*/
 			;
 ConstList ::= NUMBER:num
 			{:
-				RESULT = MyTab.intType;  
+				RESULT = new Obj(Obj.Con, "", MyTab.intType);  
 			:}
 			|CHAR:chr
 			{:
-				RESULT = MyTab.charType;
+				RESULT = new Obj(Obj.Con, "", MyTab.charType); 
 			:}
 			|BOOL:bool
 			{:
-				RESULT = MyTab.boolType; 
+				RESULT = new Obj(Obj.Con, "", MyTab.boolType); 
 			:}
 			;
 ClassVarDecl::=STATIC Type:varType IDENT:varName LMEDBRACE RMEDBRACE IdentIdentList SEMI
@@ -211,45 +237,23 @@ IdentIdentList ::=IdentIdentList COMMA IDENT:varName LMEDBRACE RMEDBRACE
 			      :}
 				  |
 				  /*epsilon*/;
-VarDecl ::= Type:varType IDENT:varName ExtIdentList SEMI
-			{:
-			parser.report_info(varType.getKind() + " Deklarisana promenljiva "+varName+" na liniji "+varNameleft,null);
-			if(MyTab.currentScope.findSymbol(varName)!=null)
-				{
-					parser.report_error("Greska na liniji: "+varNameleft+".Vec postoji promenljiva sa imenom: " + varName,null);
-				}
-			else {
-				Obj temp = MyTab.insert(in_class && !in_method ? Obj.Fld : Obj.Var, varName, varType);
-				}
-			
-			:}
-			|
-			Type:varType IDENT:varName LMEDBRACE RMEDBRACE ExtIdentList SEMI
-			{:
-			parser.report_info("Deklarisana promenljiva "+varName+" na liniji "+varNameleft,null);
-			if(MyTab.currentScope.findSymbol(varName)!=null)
-				{
-					parser.report_error("Vec postoji promenljiva sa imenom: " + varName,null);
-				}
-			else {
-				Obj temp = MyTab.insert(in_class && !in_method ? Obj.Type : Obj.Type, varName, MyTab.referenceType);
-				}
-			
-			:}
-			;
-			
-ExtIdentList ::= ExtIdentList COMMA IDENT:varName MedBraceList
-				{:
-					parser.report_info("Deklarisana promenljiva "+varName+" na liniji "+varNameleft,null);
-					if(MyTab.currentScope.findSymbol(varName)!=null){
-						parser.report_error("Vec postoji promenljiva sa imenom: " + varName,null);
-					}else {
-						Obj temp = MyTab.insert(in_class && !in_method ? Obj.Fld : Obj.Var, varName, currentType);
-					}
-				:}
+VarDecl ::= Type VarList SEMI
 				|
-				/*epsilon*/
-				;
+		    Type error SEMI:s 
+		   	{: 
+		  		parser.report_info("Uspesan oporavak od greske na liniji " + sleft,null); 
+	  	   	:};
+VarList ::= VarList COMMA ExtIdentList | ExtIdentList;
+ExtIdentList ::= IDENT:name
+		{:
+			MyTab.insert(in_class && !in_method ? Obj.Fld : Obj.Var, name, currentType);  
+		:}
+ 			|
+ 		IDENT:name LMEDBRACE RMEDBRACE
+ 		{:
+			MyTab.insert(in_class && !in_method ? Obj.Fld : Obj.Var, name, new Struct(Struct.Array, currentType));  
+		:};
+
 ClassVarDeclList ::= ClassVarDeclList ClassVarDecl
 					|
 					/*epsilon*/;			
@@ -409,10 +413,6 @@ FormParamList ::= FormParamList:f COMMA Type:type IDENT:name LMEDBRACE RMEDBRACE
 				  |
 				  /*epsilon*/
 				  ;
-MedBraceList ::= LMEDBRACE RMEDBRACE
-				| 
-				/*epsilon*/
-				;
 Type ::= VOID
 		{:
 			RESULT=MyTab.noType;
