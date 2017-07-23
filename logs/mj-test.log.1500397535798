@@ -1,0 +1,77 @@
+2017-07-18 19:05:13 INFO  MJParserTest:28 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-07-18 19:05:13 INFO  MJParser:570 - #2 program
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 Program
+2017-07-18 19:05:13 INFO  MJParser:570 - #20 class
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 A
+2017-07-18 19:05:13 INFO  MJParser:570 - #4 {
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana klasa A na liniji 2
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 x
+2017-07-18 19:05:13 INFO  MJParser:570 - #14 [
+2017-07-18 19:05:13 INFO  MJParser:570 - #15 ]
+2017-07-18 19:05:13 INFO  MJParser:570 - #9 ,
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 y
+2017-07-18 19:05:13 INFO  MJParser:570 - #14 [
+2017-07-18 19:05:13 INFO  MJParser:570 - #15 ]
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:600 -  Deklarisana promenljiva y na liniji 3
+2017-07-18 19:05:13 INFO  MJParser:570 - #5 }
+2017-07-18 19:05:13 INFO  MJParser:600 - 1 Deklarisana promenljiva x na liniji 3
+2017-07-18 19:05:13 INFO  MJParser:570 - #22 const
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 pi
+2017-07-18 19:05:13 INFO  MJParser:570 - #13 =
+2017-07-18 19:05:13 INFO  MJParser:570 - #48 3
+2017-07-18 19:05:13 INFO  MJParser:570 - #9 ,
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 e
+2017-07-18 19:05:13 INFO  MJParser:570 - #13 =
+2017-07-18 19:05:13 INFO  MJParser:570 - #48 2
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana globalna konstanta e na liniji 5
+2017-07-18 19:05:13 INFO  MJParser:570 - #20 class
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana globalna konstanta pi na liniji 5
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 B
+2017-07-18 19:05:13 INFO  MJParser:570 - #27 extends
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 A
+2017-07-18 19:05:13 INFO  MJParser:570 - #4 {
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana klasa B na liniji 6
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 i
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:600 - 1 Deklarisana promenljiva i na liniji 8
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 x
+2017-07-18 19:05:13 INFO  MJParser:570 - #14 [
+2017-07-18 19:05:13 INFO  MJParser:570 - #15 ]
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:570 - #4 {
+2017-07-18 19:05:13 INFO  MJParser:600 - 1 Deklarisana promenljiva x na liniji 8
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 getValue
+2017-07-18 19:05:13 INFO  MJParser:570 - #7 (
+2017-07-18 19:05:13 INFO  MJParser:600 - Obradjuje se metoda: getValue na liniji 10
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 a
+2017-07-18 19:05:13 INFO  MJParser:570 - #8 )
+2017-07-18 19:05:13 INFO  MJParser:600 - Parametar funkcije: a na liniji 10
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 int
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 b
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana promenljiva b na liniji 10
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 bool
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 c
+2017-07-18 19:05:13 INFO  MJParser:570 - #6 ;
+2017-07-18 19:05:13 INFO  MJParser:600 - Deklarisana promenljiva c na liniji 10
+2017-07-18 19:05:13 INFO  MJParser:570 - #4 {
+2017-07-18 19:05:13 INFO  MJParser:570 - #11 return
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 i
+2017-07-18 19:05:13 INFO  MJParser:570 - #12 +
+2017-07-18 19:05:13 INFO  MJParser:600 - Koriscenje identifikatora 4 i na liniji 11
+2017-07-18 19:05:13 INFO  MJParser:600 - ^^^^1
+2017-07-18 19:05:13 INFO  MJParser:570 - #51 x
+2017-07-18 19:05:13 INFO  MJParser:570 - #14 [
+2017-07-18 19:05:13 INFO  MJParser:600 - Koriscenje identifikatora 4 x na liniji 11
+2017-07-18 19:05:13 INFO  MJParser:570 - #48 0
+2017-07-18 19:05:13 INFO  MJParser:570 - #15 ]
+2017-07-18 19:05:13 INFO  MJParser:600 - PREPOZNAT JE BROJ: 0
+2017-07-18 19:05:13 INFO  MJParser:600 - ^^^^1

@@ -1,0 +1,79 @@
+2017-07-18 14:19:29 INFO  MJParserTest:28 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-07-18 14:19:29 INFO  MJParser:564 - #2 program
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 Program
+2017-07-18 14:19:29 INFO  MJParser:564 - #20 class
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 A
+2017-07-18 14:19:29 INFO  MJParser:564 - #4 {
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana klasa A na liniji 2
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 x
+2017-07-18 14:19:29 INFO  MJParser:564 - #14 [
+2017-07-18 14:19:29 INFO  MJParser:564 - #15 ]
+2017-07-18 14:19:29 INFO  MJParser:564 - #9 ,
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 y
+2017-07-18 14:19:29 INFO  MJParser:564 - #14 [
+2017-07-18 14:19:29 INFO  MJParser:564 - #15 ]
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:594 -  Deklarisana promenljiva y na liniji 3
+2017-07-18 14:19:29 INFO  MJParser:564 - #5 }
+2017-07-18 14:19:29 INFO  MJParser:594 - 1 Deklarisana promenljiva x na liniji 3
+2017-07-18 14:19:29 INFO  MJParser:564 - #22 const
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 pi
+2017-07-18 14:19:29 INFO  MJParser:564 - #13 =
+2017-07-18 14:19:29 INFO  MJParser:564 - #48 3
+2017-07-18 14:19:29 INFO  MJParser:564 - #9 ,
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 e
+2017-07-18 14:19:29 INFO  MJParser:564 - #13 =
+2017-07-18 14:19:29 INFO  MJParser:564 - #48 2
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana globalna konstanta e na liniji 5
+2017-07-18 14:19:29 INFO  MJParser:564 - #20 class
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana globalna konstanta pi na liniji 5
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 B
+2017-07-18 14:19:29 INFO  MJParser:564 - #27 extends
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 A
+2017-07-18 14:19:29 INFO  MJParser:564 - #4 {
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana klasa B na liniji 6
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 i
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:594 - 1 Deklarisana promenljiva i na liniji 8
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 x
+2017-07-18 14:19:29 INFO  MJParser:564 - #14 [
+2017-07-18 14:19:29 INFO  MJParser:564 - #15 ]
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:564 - #4 {
+2017-07-18 14:19:29 INFO  MJParser:594 - 1 Deklarisana promenljiva x na liniji 8
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 getValue
+2017-07-18 14:19:29 INFO  MJParser:564 - #7 (
+2017-07-18 14:19:29 INFO  MJParser:594 - Obradjuje se metoda: getValue na liniji 10
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 a
+2017-07-18 14:19:29 INFO  MJParser:564 - #8 )
+2017-07-18 14:19:29 INFO  MJParser:594 - Parametar funkcije: a na liniji 10
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 int
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 b
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana promenljiva b na liniji 10
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 bool
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 c
+2017-07-18 14:19:29 INFO  MJParser:564 - #6 ;
+2017-07-18 14:19:29 INFO  MJParser:594 - Deklarisana promenljiva c na liniji 10
+2017-07-18 14:19:29 INFO  MJParser:564 - #4 {
+2017-07-18 14:19:29 INFO  MJParser:564 - #11 return
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 i
+2017-07-18 14:19:29 INFO  MJParser:564 - #12 +
+2017-07-18 14:19:29 INFO  MJParser:594 - Koriscenje identifikatora 4 i na liniji 11
+2017-07-18 14:19:29 INFO  MJParser:594 - ^^^^1
+2017-07-18 14:19:29 INFO  MJParser:564 - #51 x
+2017-07-18 14:19:29 INFO  MJParser:564 - #14 [
+2017-07-18 14:19:29 INFO  MJParser:594 - Koriscenje identifikatora 4 x na liniji 11
+2017-07-18 14:19:29 INFO  MJParser:564 - #48 0
+2017-07-18 14:19:29 ERROR MJParser:588 - Greska na liniji 11:tip nije niz
+2017-07-18 14:19:29 INFO  MJParser:564 - #15 ]
+2017-07-18 14:19:29 INFO  MJParser:594 - PREPOZNAT JE BROJ: 0
+2017-07-18 14:19:29 INFO  MJParser:594 - ^^^^1
+2017-07-18 14:19:29 INFO  MJParser:564 - #12 +
