@@ -1,0 +1,47 @@
+2017-08-27 16:03:16 INFO  MJParserTest:30 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-08-27 16:03:16 INFO  MJParser:572 - #2 program
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 test301
+2017-08-27 16:03:16 INFO  MJParser:572 - #22 const
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 int
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 jedan
+2017-08-27 16:03:16 INFO  MJParser:572 - #13 =
+2017-08-27 16:03:16 INFO  MJParser:572 - #48 1
+2017-08-27 16:03:16 INFO  MJParser:572 - #6 ;
+2017-08-27 16:03:16 INFO  MJParser:572 - #22 const
+2017-08-27 16:03:16 INFO  MJParser:602 - Deklarisana globalna konstanta jedan na liniji 4
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 int
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 pet
+2017-08-27 16:03:16 INFO  MJParser:572 - #13 =
+2017-08-27 16:03:16 INFO  MJParser:572 - #48 5
+2017-08-27 16:03:16 INFO  MJParser:572 - #6 ;
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 int
+2017-08-27 16:03:16 INFO  MJParser:602 - Deklarisana globalna konstanta pet na liniji 5
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 niz
+2017-08-27 16:03:16 INFO  MJParser:572 - #14 [
+2017-08-27 16:03:16 INFO  MJParser:572 - #15 ]
+2017-08-27 16:03:16 INFO  MJParser:572 - #6 ;
+2017-08-27 16:03:16 INFO  MJParser:602 - Deklarisan niz niz na liniji 7
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 char
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 nizch
+2017-08-27 16:03:16 INFO  MJParser:572 - #14 [
+2017-08-27 16:03:16 INFO  MJParser:572 - #15 ]
+2017-08-27 16:03:16 INFO  MJParser:572 - #6 ;
+2017-08-27 16:03:16 INFO  MJParser:602 - Deklarisan niz nizch na liniji 9
+2017-08-27 16:03:16 INFO  MJParser:572 - #4 {
+2017-08-27 16:03:16 INFO  MJParser:572 - #3 void
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 funk
+2017-08-27 16:03:16 INFO  MJParser:572 - #7 (
+2017-08-27 16:03:16 INFO  MJParser:602 - Obradjuje se metoda: funk na liniji 12
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 int
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 a
+2017-08-27 16:03:16 INFO  MJParser:572 - #8 )
+2017-08-27 16:03:16 INFO  MJParser:602 - Parametar funkcije: a na liniji 12
+2017-08-27 16:03:16 INFO  MJParser:572 - #4 {
+2017-08-27 16:03:16 INFO  MJParser:572 - #11 return
+2017-08-27 16:03:16 INFO  MJParser:572 - #51 a
+2017-08-27 16:03:16 INFO  MJParser:572 - #6 ;
+2017-08-27 16:03:16 INFO  MJParser:602 - Koriscenje lokalne promenljive a na liniji 12
+2017-08-27 16:03:16 ERROR MJParser:596 - Greska na liniji: 12. Povratni tip funkcije je VOID i ne moze imati vrednost u return iskazu.
+2017-08-27 16:03:16 ERROR MJParser:596 - Greska na liniji: 12. Tip izraza u return naredbi se ne slaze sa tipom povratne vrednosti funkcije.
+2017-08-27 16:03:16 INFO  MJParser:572 - #5 }
+2017-08-27 16:03:16 INFO  MJParser:572 - #3 void

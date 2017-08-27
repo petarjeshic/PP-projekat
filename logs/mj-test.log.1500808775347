@@ -1,8 +1,0 @@
-2017-07-23 13:19:33 INFO  MJParserTest:28 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
-2017-07-23 13:19:33 INFO  MJParser:520 - #2 program
-2017-07-23 13:19:33 INFO  MJParser:520 - #51 Program
-2017-07-23 13:19:33 INFO  MJParser:520 - #20 class
-2017-07-23 13:19:33 ERROR MJParser:544 - 
-Sintaksna greska na liniji 2
-2017-07-23 13:19:33 ERROR MJParser:544 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2
-2017-07-23 13:19:33 ERROR MJParserTest:38 - Parsiranje NIJE uspesno zavrseno. Postoje greske u kodu!

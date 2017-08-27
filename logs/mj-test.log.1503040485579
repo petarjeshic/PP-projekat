@@ -1,0 +1,106 @@
+2017-08-18 09:08:24 INFO  MJParserTest:30 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-08-18 09:08:24 INFO  MJParser:566 - #2 program
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 MaxCifra
+2017-08-18 09:08:24 INFO  MJParser:566 - #22 const
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 x
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 ERROR MJParser:590 - Semanticka greska na liniji 4: Nije pronadjen tip x!
+2017-08-18 09:08:24 ERROR MJParser:590 - 
+Sintaksna greska na liniji 4
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 int
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #9 ,
+2017-08-18 09:08:24 INFO  MJParser:596 - Uspesan oporavak od greske na liniji 4 pri definisanju konstante.
+2017-08-18 09:08:24 INFO  MJParser:596 - Deklarisana promenljiva a na liniji 6
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 c
+2017-08-18 09:08:24 INFO  MJParser:566 - #9 ,
+2017-08-18 09:08:24 INFO  MJParser:596 - Deklarisana promenljiva c na liniji 6
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 maxcif
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:596 - Deklarisana promenljiva maxcif na liniji 6
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 char
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 e
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 ERROR MJParser:590 - 
+Sintaksna greska na liniji 7
+2017-08-18 09:08:24 INFO  MJParser:566 - #49 2
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 int
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 c
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:596 - Uspesan oporavak od greske pri definisanju globalne promenljive na liniji 7
+2017-08-18 09:08:24 ERROR MJParser:590 - Semanticka greska na liniji 8 : Ime promenljive vec postoji!
+2017-08-18 09:08:24 INFO  MJParser:566 - #4 {
+2017-08-18 09:08:24 INFO  MJParser:566 - #3 void
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 main
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:596 - Obradjuje se metoda: main na liniji 10
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 char
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 ERROR MJParser:590 - Semanticka greska na liniji 10 : Ime promenljive vec postoji!
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 int
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 z
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 ERROR MJParser:590 - 
+Sintaksna greska na liniji 10
+2017-08-18 09:08:24 INFO  MJParser:566 - #48 0
+2017-08-18 09:08:24 INFO  MJParser:566 - #4 {
+2017-08-18 09:08:24 INFO  MJParser:566 - #25 read
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 maxcif
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 INFO  MJParser:566 - #48 0
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 while
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #35 !=
+2017-08-18 09:08:24 INFO  MJParser:566 - #48 0
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #4 {
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 c
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #33 %
+2017-08-18 09:08:24 INFO  MJParser:566 - #48 10
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #23 if
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 maxcif
+2017-08-18 09:08:24 INFO  MJParser:566 - #18 <
+2017-08-18 09:08:24 INFO  MJParser:566 - #17 >
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 c
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 maxcif
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 c
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #13 =
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 a
+2017-08-18 09:08:24 INFO  MJParser:566 - #32 /
+2017-08-18 09:08:24 INFO  MJParser:566 - #48 10
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #5 }
+2017-08-18 09:08:24 INFO  MJParser:566 - #25 read
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 x
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 x
+2017-08-18 09:08:24 INFO  MJParser:566 - #45 ++
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #10 print
+2017-08-18 09:08:24 INFO  MJParser:566 - #7 (
+2017-08-18 09:08:24 INFO  MJParser:566 - #51 max
+2017-08-18 09:08:24 INFO  MJParser:566 - #8 )
+2017-08-18 09:08:24 INFO  MJParser:566 - #6 ;
+2017-08-18 09:08:24 INFO  MJParser:566 - #5 }
+2017-08-18 09:08:24 INFO  MJParser:566 - #5 }
+2017-08-18 09:08:24 ERROR MJParser:590 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 23
+2017-08-18 09:08:24 ERROR MJParserTest:44 - Parsiranje NIJE uspesno zavrseno. Postoje greske u kodu!

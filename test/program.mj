@@ -1,52 +1,49 @@
-program Program
-	int v;
-	int p[];
-	char g[];
-	const int broj1=0;
-	const char slovo1='a';
-	class A{
-		int x[],y[];
-	}
-	const int pi = 3, e = 2;
-	class B extends A
-	{
- 		int i; 
- 		int x[];
- 		{
-			int getValue(int a) int b; bool c;
-			{ return i+x[0]+a; }
- 		}
-	}
-	class C extends B{
-	A theA;
-	int a;
-	}
-	{
-void main() A a; C c; int i; int x[];
+// Test301
+
+program test301
+	const int jedan = 1;
+	const int pet = 5;
+
+	int niz[];
+	
+	char nizch[];
+	
 {
-	i=i+1;
-	i=i+1;
-	i=i-1;
-	i=i*1;
-	i=i/1;
-	if('a'=='a') i=i*10; else i=i/10;
-	chr(2);
-	ord('b');
-	len(x);
-	a = new A;
-	a.x = new int[5];
-	a.y = new int[5];
-	c = new C;
-	c.theA = a;
-	c.x = new int[5];
-	x = new int[3];
-	i=0;
-	read(c.i);
-	for(; i<5; i++)
+	int funk(int a,int b){return a+b;}
+	void main()	int bodovi;
 	{
-		read(c.x[i]);
-		read(c.theA.x[i]);
-		}
-	print(c.getValue(c.theA.x[0]));
+		read(bodovi);
+		bodovi = 0;
+		bodovi++;
+		bodovi = bodovi + jedan;
+		bodovi+= bodovi;
+		bodovi--;
+		print(bodovi); 
+			
+		
+		niz = new int[2];
+		niz[0] = pet;
+		niz[1] = 10;
+		bodovi = (niz[1]/=niz[0]);
+		print(bodovi); 
+		print(niz[1]);
+		
+		nizch = new char[3];
+		nizch[0] = 'a';
+		nizch[jedan] = 'b';
+		nizch[pet - 3] = 'c';
+		print( nizch[2 - 1]);
+		print( nizch[jedan * 2]);
+			
+		
+		bodovi += ((pet * jedan - 1) * 2 - (3 % 2 + 3 * 2 - 3) - 1 * 0); 
+		print(bodovi);
+			
+			
+		
+		bodovi = bodovi + 1;
+		print(bodovi);
+			
+	
 	}
 }

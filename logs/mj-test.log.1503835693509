@@ -1,0 +1,301 @@
+2017-08-27 14:02:04 INFO  MJParserTest:30 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-08-27 14:02:04 INFO  MJParser:570 - #2 program
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 test301
+2017-08-27 14:02:04 INFO  MJParser:570 - #22 const
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 jedan
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #22 const
+2017-08-27 14:02:04 INFO  MJParser:600 - Deklarisana globalna konstanta jedan na liniji 4
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 pet
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 5
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:600 - Deklarisana globalna konstanta pet na liniji 5
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Deklarisan niz niz na liniji 7
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 char
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Deklarisan niz nizch na liniji 9
+2017-08-27 14:02:04 INFO  MJParser:570 - #4 {
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 funkcija
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:600 - Obradjuje se metoda: funkcija na liniji 12
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 a
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Parametar funkcije: a na liniji 12
+2017-08-27 14:02:04 INFO  MJParser:570 - #4 {
+2017-08-27 14:02:04 INFO  MJParser:570 - #11 return
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 a
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive a na liniji 13
+2017-08-27 14:02:04 INFO  MJParser:570 - #5 }
+2017-08-27 14:02:04 INFO  MJParser:570 - #3 void
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 main
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:600 - Obradjuje se metoda: main na liniji 15
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Deklarisana promenljiva bodovi na liniji 15
+2017-08-27 14:02:04 INFO  MJParser:570 - #4 {
+2017-08-27 14:02:04 INFO  MJParser:570 - #25 read
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 17
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 18
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 0
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #45 ++
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 19
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 20
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #12 +
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 20
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 jedan
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje konstante jedan na liniji: 20
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #40 +=
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 21
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 21
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #46 --
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 22
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 23
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 26
+2017-08-27 14:02:04 INFO  MJParser:570 - #24 new
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 int
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 27
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 0
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalnog niza niz na liniji 27
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 pet
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje konstante pet na liniji: 27
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 28
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalnog niza niz na liniji 28
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 10
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 29
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 29
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalnog niza niz na liniji 29
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #43 /=
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 29
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 0
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalnog niza niz na liniji 29
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 30
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 niz
+2017-08-27 14:02:04 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne promenljive niz na liniji 31
+2017-08-27 14:02:04 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalnog niza niz na liniji 31
+2017-08-27 14:02:04 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 funkcija
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne funkcije funkcija na liniji 32
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 32
+2017-08-27 14:02:04 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:04 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:04 INFO  MJParser:600 - Pronadjen poziv funkcije funkcija na liniji: 32
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 funkcija
+2017-08-27 14:02:04 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje globalne funkcije funkcija na liniji 33
+2017-08-27 14:02:04 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 33
+2017-08-27 14:02:04 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:04 INFO  MJParser:600 - Pronadjen poziv funkcije funkcija na liniji: 33
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 35
+2017-08-27 14:02:20 INFO  MJParser:570 - #24 new
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 char
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 3
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 36
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 0
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalnog niza nizch na liniji 36
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:20 INFO  MJParser:570 - #49 a
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 37
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 jedan
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalnog niza nizch na liniji 37
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje konstante jedan na liniji: 37
+2017-08-27 14:02:20 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:20 INFO  MJParser:570 - #49 b
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 38
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 pet
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalnog niza nizch na liniji 38
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje konstante pet na liniji: 38
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 3
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:20 INFO  MJParser:570 - #49 c
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 39
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalnog niza nizch na liniji 39
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 nizch
+2017-08-27 14:02:20 INFO  MJParser:570 - #14 [
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalne promenljive nizch na liniji 40
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 jedan
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje globalnog niza nizch na liniji 40
+2017-08-27 14:02:20 INFO  MJParser:570 - #31 *
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje konstante jedan na liniji: 40
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:20 INFO  MJParser:570 - #15 ]
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:20 INFO  MJParser:570 - #40 +=
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 43
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 pet
+2017-08-27 14:02:20 INFO  MJParser:570 - #31 *
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje konstante pet na liniji: 43
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 jedan
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje konstante jedan na liniji: 43
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:570 - #31 *
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 3
+2017-08-27 14:02:20 INFO  MJParser:570 - #33 %
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:20 INFO  MJParser:570 - #12 +
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 3
+2017-08-27 14:02:20 INFO  MJParser:570 - #31 *
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 2
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 3
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:570 - #30 -
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:20 INFO  MJParser:570 - #31 *
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 0
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 44
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:20 INFO  MJParser:570 - #13 =
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 48
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:20 INFO  MJParser:570 - #12 +
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 48
+2017-08-27 14:02:20 INFO  MJParser:570 - #48 1
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #10 print
+2017-08-27 14:02:20 INFO  MJParser:570 - #7 (
+2017-08-27 14:02:20 INFO  MJParser:570 - #51 bodovi
+2017-08-27 14:02:20 INFO  MJParser:570 - #8 )
+2017-08-27 14:02:20 INFO  MJParser:600 - Koriscenje lokalne promenljive bodovi na liniji 49
+2017-08-27 14:02:20 INFO  MJParser:570 - #6 ;
+2017-08-27 14:02:20 INFO  MJParser:570 - #5 }
+2017-08-27 14:02:20 INFO  MJParser:570 - #5 }
+2017-08-27 14:02:20 INFO  MJParser:600 - Broj globalnih prostih promenjivih:1
+2017-08-27 14:02:20 INFO  MJParser:600 - Broj globalnih nizova:4
+2017-08-27 14:02:20 INFO  MJParser:600 - Broj globalnih konstanti:4
+2017-08-27 14:02:20 INFO  MJParser:600 - Broj deklaracija promenljivih u main-u:1
+2017-08-27 14:02:20 INFO  MJParserTest:40 - Parsiranje uspesno zavrseno!
