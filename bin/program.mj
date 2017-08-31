@@ -1,49 +1,27 @@
-// Test301
+// nivo A
+// ispravan test
 
-program test301
-	const int jedan = 1;
-	const int pet = 5;
+program Prilepi
 
-	int niz[];
-	
-	char nizch[];
-	
+	int a, b; 
+	int manji, veci, step, pom, novi;
+	const int x = 10;
+
 {
-	int funk(int a,int b){return a+b;}
-	void main()	int bodovi;
-	{
-		read(bodovi);
-		bodovi = 0;
-		bodovi++;
-		bodovi = bodovi + jedan;
-		bodovi+= bodovi;
-		bodovi--;
-		print(bodovi); 
-			
-		
-		niz = new int[2];
-		niz[0] = pet;
-		niz[1] = 10;
-		bodovi = (niz[1]/=niz[0]);
-		print(bodovi); 
-		print(niz[1]);
-		
-		nizch = new char[3];
-		nizch[0] = 'a';
-		nizch[jedan] = 'b';
-		nizch[pet - 3] = 'c';
-		print( nizch[2 - 1]);
-		print( nizch[jedan * 2]);
-			
-		
-		bodovi += ((pet * jedan - 1) * 2 - (3 % 2 + 3 * 2 - 3) - 1 * 0); 
-		print(bodovi);
-			
-			
-		
-		bodovi = bodovi + 1;
-		print(bodovi);
-			
-	
+	void main() {
+
+		read(a);
+		read(b);
+
+		novi = 0;
+		if(a < b){
+			manji = a;
+			veci = b;
+		}else{
+			manji = b;
+			veci = a;
+		}
+		pom = manji;
+		novi = veci*step + manji;
 	}
 }
