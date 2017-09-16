@@ -1,0 +1,459 @@
+2017-09-13 18:28:54 INFO  MJParserTest:32 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-09-13 18:28:54 INFO  MJParser:553 - #2 program
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 P
+2017-09-13 18:28:54 INFO  MJParser:553 - #22 const
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 10
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 bool
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana globalna konstanta size na liniji 2
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 dupla
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva dupla na liniji 3
+2017-09-13 18:28:54 INFO  MJParser:553 - #20 class
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 Table
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se klasa Table na liniji 4
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 pos
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisan niz kao polje pos na liniji 5
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 neg
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisan niz kao polje neg na liniji 5
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #3 void
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putp
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: putp na liniji 7
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: a na liniji 7
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: idx na liniji 7
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 pos
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalnog niza pos na liniji 8
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive idx na liniji 8
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive a na liniji 8
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #3 void
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putn
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: putn na liniji 10
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: a na liniji 10
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: idx na liniji 10
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 neg
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalnog niza neg na liniji 11
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive idx na liniji 11
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive a na liniji 11
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 getp
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: getp na liniji 13
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: idx na liniji 13
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #11 return
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 pos
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalnog niza pos na liniji 14
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive idx na liniji 14
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 getn
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: getn na liniji 16
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: idx na liniji 16
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #11 return
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 neg
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 idx
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalnog niza neg na liniji 17
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive idx na liniji 17
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 Table
+2017-09-13 18:28:54 INFO  MJParser:583 - Definisana klasa Table na liniji 4
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje klase Table kao tipa na liniji 21
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva val na liniji 21
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #29 static
+2017-09-13 18:28:54 INFO  MJParser:553 - #3 void
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 f
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se staticka funkcija: f na liniji 23
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 char
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 ch
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: ch na liniji 23
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: a na liniji 23
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva x na liniji 23
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 24
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive a na liniji 24
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 large
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: large na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: a na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 b
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: b na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 c
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: c na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 d
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: d na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 char
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 e
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: e na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 f
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: f na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 char
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 g
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: g na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 h
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: h na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 char
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: i na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 j
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Parametar funkcije: j na liniji 26
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #11 return
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 a
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive a na liniji 27
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #3 void
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 main
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Obradjuje se funkcija: main na liniji 29
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva x na liniji 29
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva i na liniji 29
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 char
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 c
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Deklarisana promenljiva c na liniji 29
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 dupla
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive dupla na liniji 30
+2017-09-13 18:28:54 INFO  MJParser:553 - #49 true
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 31
+2017-09-13 18:28:54 INFO  MJParser:553 - #24 new
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 Table
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje klase Table kao tipa na liniji 31
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 32
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 pos
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje polja pos na liniji 32
+2017-09-13 18:28:54 INFO  MJParser:553 - #24 new
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje konstante size na liniji: 32
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 33
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 neg
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje polja neg na liniji 33
+2017-09-13 18:28:54 INFO  MJParser:553 - #24 new
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 int
+2017-09-13 18:28:54 INFO  MJParser:553 - #13 [
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #14 ]
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje konstante size na liniji: 33
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #26 for
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #16 =
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 34
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #18 <
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 34
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje konstante size na liniji: 34
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #45 ++
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 34
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 35
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putp
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 2Koriscenje metode putp na liniji 35
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 35
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije putp na liniji: 35
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 36
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putn
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 2Koriscenje metode putn na liniji 36
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 36
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije putn na liniji: 36
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 f
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne funkcije f na liniji 38
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 c
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive c na liniji 38
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 38
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #25 read
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije f na liniji: 38
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 40
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #26 for
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #17 >
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 41
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #23 if
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #37 <=
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #38 &&
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 42
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #18 <
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 42
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje konstante size na liniji: 42
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putp
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 2Koriscenje metode putp na liniji 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 getp
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 1Koriscenje metode getp na liniji 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #12 +
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije getp na liniji: 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 1
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 1
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije putp na liniji: 43
+2017-09-13 18:28:54 INFO  MJParser:553 - #21 else
+2017-09-13 18:28:54 INFO  MJParser:553 - #23 if
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #30 -
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 size
+2017-09-13 18:28:54 INFO  MJParser:553 - #18 <
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje konstante size na liniji: 44
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #38 &&
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 44
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #18 <
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 44
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #4 {
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 putn
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 2Koriscenje metode putn na liniji 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 getn
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - 1Koriscenje metode getn na liniji 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #30 -
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #12 +
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije getn na liniji: 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 1
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 1
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije putn na liniji: 45
+2017-09-13 18:28:54 INFO  MJParser:553 - #25 read
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 47
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 large
+2017-09-13 18:28:54 INFO  MJParser:553 - #7 (
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne funkcije large na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive x na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 0
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 1
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #30 -
+2017-09-13 18:28:54 INFO  MJParser:553 - #47 3
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #48 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 i
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive i na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #48 x
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 pos
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje polja pos na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 c
+2017-09-13 18:28:54 INFO  MJParser:553 - #9 ,
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje lokalne promenljive c na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 val
+2017-09-13 18:28:54 INFO  MJParser:553 - #15 .
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje globalne promenljive val na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #50 neg
+2017-09-13 18:28:54 INFO  MJParser:553 - #8 )
+2017-09-13 18:28:54 INFO  MJParser:583 - Koriscenje polja neg na liniji 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #6 ;
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:583 - Pronadjen poziv funkcije large na liniji: 48
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:553 - #5 }
+2017-09-13 18:28:54 INFO  MJParser:583 - Broj globalnih prostih promenjivih:8
+2017-09-13 18:28:54 INFO  MJParser:583 - Broj globalnih nizova:0
+2017-09-13 18:28:54 INFO  MJParser:583 - Broj globalnih konstanti:2
+2017-09-13 18:28:54 INFO  MJParser:583 - Broj deklaracija promenljivih u main-u:3
+2017-09-13 18:28:54 INFO  MJParserTest:42 - Parsiranje uspesno zavrseno!

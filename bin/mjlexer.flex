@@ -76,7 +76,9 @@ import java_cup.runtime.Symbol;
 "extends" {return next_token(sym.EXTENDS,yytext());}
 "continue" {return next_token(sym.CONTINUE,yytext());}
 "static" {return next_token(sym.STATIC,yytext());}
-
+"$" {return next_token(sym.DOLAR,yytext());}
+"#" {return next_token(sym.TARABA,yytext());}
+":" {return next_token(sym.DVOTACKA,yytext());}
 
 
 "//" {yybegin(COMMENT);}
@@ -87,6 +89,5 @@ import java_cup.runtime.Symbol;
 ([a-z]|[A-Z])[a-z|A-Z|0-9|_]* {return next_token(sym.IDENT,yytext());}
 [0-9]+ {return next_token(sym.NUMBER,new Integer(yytext()));}
 "'"."'" {return next_token(sym.CHAR, new Character (yytext().charAt(1)));}
-"\"".*"\"" { return next_token(sym.STRING, new String (yytext().substring(1, yytext().length()-1))); }
 
 . {System.err.println("Leksicka greska ("+yytext()+") u liniji: "+(yyline+1));}

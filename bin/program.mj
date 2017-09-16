@@ -1,27 +1,17 @@
-// nivo A
-// ispravan test
-
-program Prilepi
-
-	int a, b; 
-	int manji, veci, step, pom, novi;
-	const int x = 10;
-
+program Nasledjivanje
+int x,y;
 {
-	void main() {
-
-		read(a);
-		read(b);
-
-		novi = 0;
-		if(a < b){
-			manji = a;
-			veci = b;
-		}else{
-			manji = b;
-			veci = a;
-		}
-		pom = manji;
-		novi = veci*step + manji;
+	void a() {
+		x=x+1;
+	}
+	void b(int p){
+		y=y+1;
+	}
+	void main() int c;{
+	x=3;
+	y=2;
+	b();
+	c=x#y:1;
+	print(c);
 	}
 }

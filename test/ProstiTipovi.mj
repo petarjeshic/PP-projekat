@@ -1,0 +1,27 @@
+program ProstiTipovi
+const int b=0;
+int x,a;
+char y;
+bool z;
+{
+	void main() {
+	z=true;
+	print(z);
+	x=b;
+	a=(((x)));
+	x++;
+	x+=x*=3 + 3;
+	print(x);
+	
+	x-=x/=3;
+	print(x);
+	
+	
+	a=b+x;
+	a%=3;
+	print(a);
+	
+	z=false;
+	print(z);
+	}
+}

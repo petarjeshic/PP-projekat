@@ -1,0 +1,133 @@
+2017-09-14 20:49:37 INFO  MJParserTest:32 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-09-14 20:49:37 INFO  MJParser:551 - #2 program
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 ProstiTipovi
+2017-09-14 20:49:37 INFO  MJParser:551 - #22 const
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 int
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 b
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:551 - #47 0
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 int
+2017-09-14 20:49:37 INFO  MJParser:581 - Deklarisana globalna konstanta b na liniji 2
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #9 ,
+2017-09-14 20:49:37 INFO  MJParser:581 - Deklarisana promenljiva x na liniji 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 a
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:581 - Deklarisana promenljiva a na liniji 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 char
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 y
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:581 - Deklarisana promenljiva y na liniji 4
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 bool
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 z
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:581 - Deklarisana promenljiva z na liniji 5
+2017-09-14 20:49:37 INFO  MJParser:551 - #4 {
+2017-09-14 20:49:37 INFO  MJParser:551 - #3 void
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 main
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:581 - Obradjuje se funkcija: main na liniji 7
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:551 - #4 {
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 z
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive z na liniji 8
+2017-09-14 20:49:37 INFO  MJParser:551 - #49 true
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #10 print
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 z
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive z na liniji 9
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 10
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 b
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje konstante b na liniji: 10
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 a
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive a na liniji 11
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 11
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #45 ++
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 12
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #40 +=
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 13
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #42 *=
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 13
+2017-09-14 20:49:37 INFO  MJParser:551 - #47 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #12 +
+2017-09-14 20:49:37 INFO  MJParser:551 - #47 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #10 print
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 14
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #41 -=
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 16
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #43 /=
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 16
+2017-09-14 20:49:37 INFO  MJParser:551 - #47 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #10 print
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 17
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 a
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive a na liniji 20
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 x
+2017-09-14 20:49:37 INFO  MJParser:551 - #12 +
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive x na liniji 20
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 b
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje konstante b na liniji: 20
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 a
+2017-09-14 20:49:37 INFO  MJParser:551 - #44 %=
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive a na liniji 21
+2017-09-14 20:49:37 INFO  MJParser:551 - #47 3
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #10 print
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 a
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive a na liniji 22
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 z
+2017-09-14 20:49:37 INFO  MJParser:551 - #16 =
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive z na liniji 24
+2017-09-14 20:49:37 INFO  MJParser:551 - #49 false
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #10 print
+2017-09-14 20:49:37 INFO  MJParser:551 - #7 (
+2017-09-14 20:49:37 INFO  MJParser:551 - #50 z
+2017-09-14 20:49:37 INFO  MJParser:551 - #8 )
+2017-09-14 20:49:37 INFO  MJParser:581 - Koriscenje globalne promenljive z na liniji 25
+2017-09-14 20:49:37 INFO  MJParser:551 - #6 ;
+2017-09-14 20:49:37 INFO  MJParser:551 - #5 }
+2017-09-14 20:49:37 INFO  MJParser:551 - #5 }
+2017-09-14 20:49:37 INFO  MJParser:581 - Broj globalnih prostih promenjivih:8
+2017-09-14 20:49:37 INFO  MJParser:581 - Broj globalnih nizova:0
+2017-09-14 20:49:37 INFO  MJParser:581 - Broj globalnih konstanti:2
+2017-09-14 20:49:37 INFO  MJParser:581 - Broj deklaracija promenljivih u main-u:0
+2017-09-14 20:49:37 INFO  MJParserTest:42 - Parsiranje uspesno zavrseno!

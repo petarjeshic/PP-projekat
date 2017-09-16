@@ -1,0 +1,36 @@
+2017-09-15 20:50:02 INFO  MJParserTest:32 - Kompilacija izvornog fajlaC:\Users\House Music\workspace\PP1-Projekat\test\program.mj
+2017-09-15 20:50:03 INFO  MJParser:555 - #2 program
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 Nasledjivanje
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 int
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 x
+2017-09-15 20:50:03 INFO  MJParser:555 - #9 ,
+2017-09-15 20:50:03 INFO  MJParser:585 - Deklarisana promenljiva x na liniji 2
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 y
+2017-09-15 20:50:03 INFO  MJParser:555 - #6 ;
+2017-09-15 20:50:03 INFO  MJParser:585 - Deklarisana promenljiva y na liniji 2
+2017-09-15 20:50:03 INFO  MJParser:555 - #4 {
+2017-09-15 20:50:03 INFO  MJParser:555 - #3 void
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 main
+2017-09-15 20:50:03 INFO  MJParser:555 - #7 (
+2017-09-15 20:50:03 INFO  MJParser:585 - Obradjuje se funkcija: main na liniji 4
+2017-09-15 20:50:03 INFO  MJParser:555 - #8 )
+2017-09-15 20:50:03 INFO  MJParser:555 - #4 {
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 x
+2017-09-15 20:50:03 INFO  MJParser:555 - #16 =
+2017-09-15 20:50:03 INFO  MJParser:585 - Koriscenje globalne promenljive x na liniji 5
+2017-09-15 20:50:03 INFO  MJParser:555 - #48 1
+2017-09-15 20:50:03 INFO  MJParser:555 - #6 ;
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 y
+2017-09-15 20:50:03 INFO  MJParser:555 - #16 =
+2017-09-15 20:50:03 INFO  MJParser:585 - Koriscenje globalne promenljive y na liniji 6
+2017-09-15 20:50:03 INFO  MJParser:555 - #48 1
+2017-09-15 20:50:03 INFO  MJParser:555 - #6 ;
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 c
+2017-09-15 20:50:03 INFO  MJParser:555 - #16 =
+2017-09-15 20:50:03 ERROR MJParser:579 - Semanticka greska na liniji: 7, simbol c ne postoji u tabeli simbola!
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 x
+2017-09-15 20:50:03 INFO  MJParser:555 - #51 y
+2017-09-15 20:50:03 ERROR MJParser:579 - 
+Sintaksna greska na liniji 7
+2017-09-15 20:50:03 ERROR MJParser:579 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7
+2017-09-15 20:50:03 ERROR MJParserTest:46 - Parsiranje NIJE uspesno zavrseno. Postoje greske u kodu!
